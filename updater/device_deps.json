@@ -1,4 +1,10 @@
 {
+    "dipper": [
+        "android_device_xiaomi_dipper",
+        "android_device_xiaomi_sdm845-common",
+        "android_kernel_xiaomi_sdm845",
+        "android_packages_resources_devicesettings"
+    ],
     "polaris": [
         "android_device_xiaomi_polaris",
         "android_device_xiaomi_sdm845-common",
