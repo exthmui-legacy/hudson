@@ -1,0 +1,7 @@
+# exTHmUI build target list
+# <device> <build_type> <branch name> <period ("N"ightly, "W"eekly, "M"onthly)>
+
+# exthm-10
+polaris userdebug exthm-9 N
+# exthm-9
+polaris userdebug exthm-9 N
